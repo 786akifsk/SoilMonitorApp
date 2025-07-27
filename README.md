@@ -31,7 +31,7 @@ An Android application that helps monitor and classify soil types using image re
 
 ## 📥 Download APK
 
-[![Download](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/786akifsk/SoilMonitorApp/releases/latest/download/app-release.apk)
+[![Download](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/786akifsk/SoilMonitorApp/releases/latest/download/Soil.Monitor.A7+.apk)
 
 ---
 
