@@ -40,8 +40,9 @@ An Android application that helps monitor and classify soil types using image re
 - Integrated with TensorFlow Lite in Android
 
 ## 🧑‍💻 Author
-Md Akif Sk
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-akif-sk-4743461b7/)
+# Md Akif Sk
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-akif-sk-4743461b7/)   
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/786akifsk)
 
 ## 🤝 Contributions
