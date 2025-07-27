@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="26dp"
+    android:height="26dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Head (outline) -->
+    <path
+        android:strokeColor="@color/secondaryColor"
+        android:strokeWidth="1.5"
+        android:fillColor="@android:color/transparent"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M12,12c2.21,0 4,-1.79 4,-4s-1.79,-4 -4,-4 -4,1.79 -4,4 1.79,4 4,4z" />
+
+    <!-- Shoulders (outline) -->
+    <path
+        android:strokeColor="@color/secondaryColor"
+        android:strokeWidth="1.5"
+        android:fillColor="@android:color/transparent"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M4,20c0,-2.67 3.58,-4 8,-4s8,1.33 8,4" />
+</vector>
+
+
+
+
+
+
+
+
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<vector xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:width="96dp"-->
+<!--    android:height="96dp"-->
+<!--    android:viewportWidth="24"-->
+<!--    android:viewportHeight="24">-->
+
+<!--    &lt;!&ndash; Head &ndash;&gt;-->
+<!--    <path-->
+<!--        android:fillColor="#616161"-->
+<!--        android:pathData="M12,12c2.21,0 4,-1.79 4,-4s-1.79,-4 -4,-4 -4,1.79 -4,4 1.79,4 4,4z" />-->
+
+<!--    &lt;!&ndash; Shoulders / body &ndash;&gt;-->
+<!--    <path-->
+<!--        android:fillColor="#616161"-->
+<!--        android:pathData="M12,14c-4.42,0 -8,1.79 -8,4v2h16v-2c0,-2.21 -3.58,-4 -8,-4z" />-->
+<!--</vector>-->
+

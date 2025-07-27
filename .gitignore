@@ -1,0 +1,11 @@
+# Built files
+/build
+/app/build
+# Local configuration
+local.properties
+# IDE settings
+/.idea
+*.iml
+.gradle
+# Sensitive files
+*.keystore

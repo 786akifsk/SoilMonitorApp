@@ -1,0 +1,72 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="40dp"
+    android:height="40dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+  <!-- Outer Circle -->
+  <path
+      android:fillColor="#00000000"
+      android:strokeColor="@color/black"
+      android:strokeWidth="4"
+      android:pathData="M24,18a6,6 0 1,0 0.001,0Z" />
+
+  <!-- Vertical lines -->
+  <path
+      android:strokeColor="@color/black"
+      android:strokeWidth="4"
+      android:strokeLineCap="round"
+      android:fillColor="#00000000"
+      android:pathData="M24,6v4" />
+
+  <path
+      android:strokeColor="@color/black"
+      android:strokeWidth="4"
+      android:strokeLineCap="round"
+      android:fillColor="#00000000"
+      android:pathData="M24,38v4" />
+
+  <!-- Horizontal lines -->
+  <path
+      android:strokeColor="@color/black"
+      android:strokeWidth="4"
+      android:strokeLineCap="round"
+      android:fillColor="#00000000"
+      android:pathData="M6,24h4" />
+
+  <path
+      android:strokeColor="@color/black"
+      android:strokeWidth="4"
+      android:strokeLineCap="round"
+      android:fillColor="#00000000"
+      android:pathData="M38,24h4" />
+
+  <!-- Diagonal lines -->
+  <path
+      android:strokeColor="@color/black"
+      android:strokeWidth="4"
+      android:strokeLineCap="round"
+      android:fillColor="#00000000"
+      android:pathData="M12.5,12.5l3,3" />
+
+  <path
+      android:strokeColor="@color/black"
+      android:strokeWidth="4"
+      android:strokeLineCap="round"
+      android:fillColor="#00000000"
+      android:pathData="M32.5,32.5l3,3" />
+
+  <path
+      android:strokeColor="@color/black"
+      android:strokeWidth="4"
+      android:strokeLineCap="round"
+      android:fillColor="#00000000"
+      android:pathData="M12.5,35.5l3,-3" />
+
+  <path
+      android:strokeColor="@color/black"
+      android:strokeWidth="4"
+      android:strokeLineCap="round"
+      android:fillColor="#00000000"
+      android:pathData="M32.5,15.5l3,-3" />
+</vector>

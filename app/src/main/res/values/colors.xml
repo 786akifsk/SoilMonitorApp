@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- For Light Theme -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFC107</color>
+    <color name="error">#F44336</color>
+    <color name="deepError">#B00020</color> <!-- darker red -->
+
+
+    <color name="darkBackground">#FAFAFA</color> <!-- Light background for light theme -->
+    <color name="darkPrimary">#BEE3FF</color>
+    <color name="darkSecondary">#B0B0B0</color>
+    <color name="darkAccent">#A3D4F8</color>
+    <color name="darkAccent2">#B6D9F4</color>
+    <color name="dialogBox">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#111111</color>
+    <color name="bottomNav">#FFFFFF</color>
+    <color name="bottomNavShadow">#898888</color>
+
+
+
+
+    <color name="ic_background">#DDDDDD</color>
+    <color name="ic_foreground">#2e3436</color>
+
+    <color name="bottomNavTranslucent">#AAFFFFFF</color> <!-- 80% opacity white -->
+
+
+
+    <color name="semiTransparent">#D3FFFFFF</color>
+
+
+
+
+
+    <color name="switchThumbOff">#80CEF2</color>
+    <color name="switchTrackOff">#B7DBEB</color>
+    <color name="switchThumbOn">#424242</color> <!-- Green -->
+    <color name="switchTrackOn">#A5D6A7</color> <!-- Light green -->
+
+
+
+
+    <color name="confirmBtn">#4BAE4F</color>
+    <color name="cancelBtn">#353535</color>
+
+    <color name="splash_bg">#E9E9ED</color> <!-- Light splash background -->
+    <color name="primaryColor">#DCDCDC</color>
+    <color name="secondaryColor">#148fff</color>
+    <color name="accentColor">#33D6B0</color>
+    <color name="bgColor">#FAFAFA</color>
+    <color name="cardColor">#F5F5DC</color>
+    <color name="textColor">#212121</color>
+    <color name="primaryTextColor">#212121</color>
+    <color name="secondaryTextColor">#757575</color>
+</resources>

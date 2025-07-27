@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- For Dark Theme -->
+    <color name="success">#81C784</color>
+    <color name="warning">#FFD54F</color>
+    <color name="error">#ED5D5D</color>
+    <color name="deepError">#F44336</color>
+
+    <color name="darkBackground">#131417</color>
+    <color name="darkPrimary">#1F1F1F</color>
+    <color name="darkSecondary">#272727</color>
+    <color name="darkAccent">#212621</color>
+    <color name="darkAccent2">#252C25</color>
+    <color name="dialogBox">#212121</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#111111</color>
+    <color name="bottomNav">#1D1F24</color>
+    <color name="bottomNavShadow">#141414</color>
+
+    <color name="switchThumbOff">#90A4AE</color>
+    <color name="switchTrackOff">#546E7A</color>
+    <color name="switchThumbOn">#64FFDA</color>      <!-- Teal -->
+    <color name="switchTrackOn">#004D40</color>      <!-- Dark teal -->
+
+    <color name="ic_background">#121212</color>
+    <color name="ic_foreground">#FFFFFF</color>
+
+
+
+    <color name="confirmBtn">#349D38</color>
+    <color name="cancelBtn">#787878</color>
+
+
+    <color name="semiTransparent">#F2000000</color>
+
+
+
+    <color name="splash_bg">#0D151A</color> <!-- Dark splash background -->
+    <color name="primaryColor">#DBDBDB</color>
+    <color name="secondaryColor">#3C9FFA</color>
+    <color name="accentColor">#009F7E</color>
+    <color name="bgColor">#121212</color>
+    <color name="cardColor">#1F1B14</color>
+    <color name="textColor">#E0E0E0</color>
+    <color name="primaryTextColor">#E0E0E0</color>
+    <color name="secondaryTextColor">#B0B0B0</color>
+</resources>
