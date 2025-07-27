@@ -32,6 +32,11 @@ An Android application that helps monitor and classify soil types using image re
 
 ## 🧪 Screenshots
 
+| Signin Page | Signup Page | Forgot Password |
+|--------|----------|----------------|
+| ![](Screenshots/SigninPage.png) | ![](Screenshots/SignupPage.png) | ![](Screenshots/ForgotPassword.png) |
+
+
 | Home | Image List | Profile |
 |------|------------|---------|
 | ![](Screenshots/HomePage.png) | ![](Screenshots/ImageList.png) | ![](Screenshots/ProfilePage.png) |
