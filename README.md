@@ -28,6 +28,15 @@ An Android application that helps monitor and classify soil types using image re
 - **ML Model**: Teachable Machine → TensorFlow Lite (.tflite)  
 - **UI**: Material Components + Lottie Animations
 
+---
+
+## 🧪 Screenshots
+
+| Home | Image List | Profile |
+|------|------------|---------|
+| ![](Screenshots/HomePage.png) | ![](Screenshots/ImageList.png) | ![](Screenshots/ProfilePage.png) |
+
+---
 
 ## 📥 Download APK
 
