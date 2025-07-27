@@ -34,6 +34,15 @@ An Android application that helps monitor and classify soil types using image re
 [![Download](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/786akifsk/SoilMonitorApp/releases/latest/download/Soil.Monitor.A7+.apk)
 
 ---
+## 🧠 ML Model
+- Trained using [Google Teachable Machine](https://teachablemachine.withgoogle.com/)
+- Exported as .tflite
+- Integrated with TensorFlow Lite in Android
+
+## 🧑‍💻 Author
+Md Akif Sk
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-akif-sk-4743461b7/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/786akifsk)
 
 ## 🤝 Contributions
 Pull requests are welcome. Please fork the repo and open a PR with your improvements or bug fixes.
